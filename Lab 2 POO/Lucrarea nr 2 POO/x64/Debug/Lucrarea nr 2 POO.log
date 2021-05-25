@@ -1,0 +1,6 @@
+﻿  Lucrarea nr 2 POO.cpp
+C:\Users\Victor\source\repos\Lucrarea nr 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(44,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\source\repos\Lucrarea nr 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(55,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\source\repos\Lucrarea nr 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(56,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\source\repos\Lucrarea nr 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(78,9): warning C4101: 'discriminant': unreferenced local variable
+  Lucrarea nr 2 POO.vcxproj -> C:\Users\Victor\source\repos\Lucrarea nr 2 POO\x64\Debug\Lucrarea nr 2 POO.exe

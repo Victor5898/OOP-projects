@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lucrarea nr 2 POO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lucrarea nr 2 POO.cpp
+C:\Users\Victor\Desktop\GIT repositories\OOP-projects\Lab 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(44,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\Desktop\GIT repositories\OOP-projects\Lab 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(55,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\Desktop\GIT repositories\OOP-projects\Lab 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(56,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\Desktop\GIT repositories\OOP-projects\Lab 2 POO\Lucrarea nr 2 POO\Lucrarea nr 2 POO.cpp(78,9): warning C4101: 'discriminant': unreferenced local variable
+  Lucrarea nr 2 POO.vcxproj -> C:\Users\Victor\Desktop\GIT repositories\OOP-projects\Lab 2 POO\Debug\Lab 2 POO.exe

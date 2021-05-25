@@ -1,0 +1,6 @@
+﻿  LAB nr3 POO.cpp
+C:\Users\Victor\source\repos\LAB nr3 POO\LAB nr3 POO\LAB nr3 POO.cpp(183,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Victor\source\repos\LAB nr3 POO\LAB nr3 POO\LAB nr3 POO.cpp(46): warning C4715: 'Bool::operator*': not all control paths return a value
+C:\Users\Victor\source\repos\LAB nr3 POO\LAB nr3 POO\LAB nr3 POO.cpp(54): warning C4715: 'Bool::operator^': not all control paths return a value
+C:\Users\Victor\source\repos\LAB nr3 POO\LAB nr3 POO\LAB nr3 POO.cpp(38): warning C4715: 'Bool::operator+': not all control paths return a value
+  LAB nr3 POO.vcxproj -> C:\Users\Victor\source\repos\LAB nr3 POO\Debug\LAB nr3 POO.exe
